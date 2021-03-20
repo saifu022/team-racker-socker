@@ -1,0 +1,18 @@
+.top-banner{
+    height: 300px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.103);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;  
+}
+.top-banner img{
+    width: 200px;
+}
+.top-banner h1{
+    font-size: 60px; 
+}
